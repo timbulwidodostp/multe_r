@@ -1,6 +1,8 @@
 # multe_r
 Multiple Treatment Effects for Contamination Bias Diagnostics Use multe With (In) R Software
 
+https://www.youtube.com/watch?v=yTM_K0CpgiQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
